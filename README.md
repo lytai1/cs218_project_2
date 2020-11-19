@@ -28,4 +28,4 @@
 + Schooling - Number of years of Schooling(years) .
 ```
 
-Based on life expectancy dataset, we are going to predict the Life.expectancy of the people, using given dependent variables.
+Based on life expectancy dataset, we are going to predict the life expectancy in any particular country, using given dependent variables.

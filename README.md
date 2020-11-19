@@ -1,7 +1,7 @@
 # cs218_project_2
-## Explanation on life expectancy dataset:
+- **Explanation on life expectancy dataset **: 
 
-'''
+```
 + Country - Country Observed.
 + Year - Year Observed.
 + Status - Developed or Developing status.
@@ -24,6 +24,6 @@
 + thinness 5-9 years - Prevalence of thinness among children for Age 5 to 9(%).
 + Income.composition.of.resources - Human Development Index in terms of income composition of resources (index ranging from 0 to 1).
 + Schooling - Number of years of Schooling(years) .
-'''
+```
 
 Based on life dataset, we are going to predict the Life.expectancy of the people, using given dependent variables.

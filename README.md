@@ -1,4 +1,21 @@
 # cs218_project_2
+
+## files
+- **data**:
+  + orignial data: LifeExpectancyData.csv
+  + corrected data: LifeExpectancyData_NewPopulation2.csv
+  + revised data: LifeExpectancyData_revised.csv
+
+- **python ml**:
+  + orignial data: ml-life-expectancy.ipynb
+  + corrected data: ml-life-expectancy-corrected data.ipynb
+  + revised data: ml-life-expectancy-data-revised.ipynb
+  
+- **automl logs**:
+
+- **data analysis**:
+
+
 ## dataset
 
 - **Explanation on life expectancy dataset**: 

@@ -14,7 +14,10 @@
 - **automl logs**:
 
 - **data analysis**:
-
+  + python code on revised data: cs218project2.ipynb
+  + generated html file: cs218project2.html
+  + .py file: cs218project2.py
+  
 
 ## dataset
 

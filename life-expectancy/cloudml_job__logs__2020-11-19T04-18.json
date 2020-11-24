@@ -1,0 +1,1842 @@
+[
+  {
+    "insertId": "1vpephsg28u5fkh",
+    "jsonPayload": {
+      "@type": "type.googleapis.com/google.cloud.automl.master.TablesModelStructure",
+      "modelParameters": [
+        {
+          "hyperparameters": {
+            "Max tree depth": 6,
+            "Tree complexity": 1,
+            "Tree L1 regularization": 0,
+            "Number of trees": 500,
+            "Center Bias": "False",
+            "Tree L2 regularization": 0,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree complexity": 0.30000001192092896,
+            "Tree L2 regularization": 0,
+            "Center Bias": "False",
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L1 regularization": 0,
+            "Center Bias": "False",
+            "Tree complexity": 0.30000001192092896,
+            "Model type": "GBDT",
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Tree L2 regularization": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Tree L2 regularization": 0,
+            "Tree L1 regularization": 0,
+            "Tree complexity": 0,
+            "Center Bias": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 500,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0,
+            "Tree complexity": 0.10000000149011612,
+            "Max tree depth": 6,
+            "Tree L2 regularization": 0,
+            "Center Bias": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 0,
+            "Tree L1 regularization": 0,
+            "Max tree depth": 6,
+            "Tree complexity": 1,
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Number of trees": 500
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree complexity": 0,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0,
+            "Center Bias": "False",
+            "Max tree depth": 6,
+            "Number of trees": 500,
+            "Tree L2 regularization": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L1 regularization": 0,
+            "Max tree depth": 6,
+            "Tree complexity": 0,
+            "Tree L2 regularization": 0,
+            "Center Bias": "False",
+            "Number of trees": 500,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 0,
+            "Tree complexity": 1,
+            "Tree L1 regularization": 0,
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Number of trees": 500,
+            "Max tree depth": 6
+          }
+        },
+        {
+          "hyperparameters": {
+            "Max tree depth": 6,
+            "Tree complexity": 0.10000000149011612,
+            "Number of trees": 500,
+            "Model type": "GBDT",
+            "Tree L2 regularization": 0,
+            "Center Bias": "False",
+            "Tree L1 regularization": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree L2 regularization": 0,
+            "Model type": "GBDT",
+            "Max tree depth": 6,
+            "Tree complexity": 1,
+            "Tree L1 regularization": 0,
+            "Number of trees": 500
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L1 regularization": 0,
+            "Center Bias": "False",
+            "Max tree depth": 6,
+            "Tree L2 regularization": 0,
+            "Model type": "GBDT",
+            "Number of trees": 500,
+            "Tree complexity": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 500,
+            "Center Bias": "False",
+            "Tree L1 regularization": 0,
+            "Tree L2 regularization": 0,
+            "Max tree depth": 6,
+            "Tree complexity": 1,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree complexity": 1,
+            "Center Bias": "False",
+            "Tree L1 regularization": 0,
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Model type": "GBDT",
+            "Tree L2 regularization": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Tree L2 regularization": 0,
+            "Number of trees": 500,
+            "Tree complexity": 0,
+            "Tree L1 regularization": 0,
+            "Max tree depth": 6,
+            "Center Bias": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Tree L2 regularization": 0,
+            "Tree L1 regularization": 0,
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Tree complexity": 0.10000000149011612
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 0,
+            "Tree complexity": 0.10000000149011612,
+            "Max tree depth": 6,
+            "Number of trees": 500,
+            "Center Bias": "False",
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 0,
+            "Center Bias": "False",
+            "Max tree depth": 6,
+            "Model type": "GBDT",
+            "Tree complexity": 0.30000001192092896,
+            "Number of trees": 500,
+            "Tree L1 regularization": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0,
+            "Max tree depth": 6,
+            "Tree L2 regularization": 0,
+            "Tree complexity": 1,
+            "Number of trees": 500
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0,
+            "Max tree depth": 6,
+            "Number of trees": 500,
+            "Tree L2 regularization": 0,
+            "Center Bias": "False",
+            "Tree complexity": 0.10000000149011612
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree complexity": 1,
+            "Tree L2 regularization": 0,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0,
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Center Bias": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0,
+            "Tree complexity": 1,
+            "Number of trees": 500,
+            "Tree L2 regularization": 0,
+            "Max tree depth": 6,
+            "Center Bias": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree L1 regularization": 0,
+            "Tree L2 regularization": 0,
+            "Max tree depth": 6,
+            "Number of trees": 500,
+            "Tree complexity": 0.30000001192092896,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L1 regularization": 0,
+            "Model type": "GBDT",
+            "Tree L2 regularization": 0,
+            "Max tree depth": 6,
+            "Number of trees": 500,
+            "Center Bias": "False",
+            "Tree complexity": 0.30000001192092896
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Tree complexity": 1,
+            "Center Bias": "False",
+            "Number of trees": 500,
+            "Tree L1 regularization": 0,
+            "Tree L2 regularization": 0,
+            "Max tree depth": 6
+          }
+        }
+      ]
+    },
+    "resource": {
+      "type": "cloudml_job",
+      "labels": {
+        "job_id": "TBL8881390935267606528",
+        "region": "us-central1",
+        "project_id": "cs218-proj2-team6"
+      }
+    },
+    "timestamp": "2020-11-20T00:18:59.095520457Z",
+    "severity": "INFO",
+    "labels": {
+      "log_type": "automl_tables"
+    },
+    "logName": "projects/cs218-proj2-team6/logs/automl.googleapis.com%2Fmodel",
+    "receiveTimestamp": "2020-11-20T00:18:59.095520457Z"
+  },
+  {
+    "insertId": "1a2hj0vfudmen6",
+    "jsonPayload": {
+      "@type": "type.googleapis.com/google.cloud.automl.master.TablesModelStructure",
+      "modelParameters": [
+        {
+          "hyperparameters": {
+            "Enable batchNorm": "False",
+            "Enable layerNorm": "False",
+            "Enable L2": "False",
+            "Number of cross layers": "2",
+            "Dropout rate": 0.125,
+            "Model type": "nn",
+            "Enable L1": "False",
+            "Normalize numerical column": "True",
+            "Skip connections type": "dense",
+            "Enable embedding L1": "False",
+            "Number of hidden layers": "2",
+            "Hidden layer size": 64,
+            "Embedding numerical embedding": "True",
+            "Enable embedding L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Normalize numerical column": "True",
+            "Embedding numerical embedding": "True",
+            "Enable L1": "False",
+            "Number of hidden layers": "2",
+            "Enable embedding L1": "False",
+            "Enable L2": "False",
+            "Number of cross layers": "0",
+            "Enable batchNorm": "False",
+            "Hidden layer size": 256,
+            "Model type": "nn",
+            "Enable embedding L2": "False",
+            "Dropout rate": 0.125,
+            "Enable layerNorm": "False",
+            "Skip connections type": "dense"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L2": "False",
+            "Normalize numerical column": "True",
+            "Hidden layer size": 64,
+            "Enable L1": "False",
+            "Enable layerNorm": "False",
+            "Enable L2": "False",
+            "Dropout rate": 0.125,
+            "Model type": "nn",
+            "Number of hidden layers": "2",
+            "Enable embedding L1": "False",
+            "Embedding numerical embedding": "True",
+            "Enable batchNorm": "False",
+            "Skip connections type": "dense",
+            "Number of cross layers": "2"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of hidden layers": "2",
+            "Number of cross layers": "2",
+            "Enable embedding L2": "False",
+            "Embedding numerical embedding": "True",
+            "Enable batchNorm": "False",
+            "Model type": "nn",
+            "Dropout rate": 0.125,
+            "Enable embedding L1": "False",
+            "Hidden layer size": 64,
+            "Skip connections type": "dense",
+            "Normalize numerical column": "True",
+            "Enable L1": "False",
+            "Enable layerNorm": "False",
+            "Enable L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Hidden layer size": 256,
+            "Number of hidden layers": "3",
+            "Dropout rate": 0.375,
+            "Enable batchNorm": "False",
+            "Enable L2": "False",
+            "Skip connections type": "dense",
+            "Normalize numerical column": "True",
+            "Model type": "nn",
+            "Enable embedding L1": "False",
+            "Enable embedding L2": "False",
+            "Enable L1": "False",
+            "Number of cross layers": "2",
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L1": "False",
+            "Skip connections type": "dense",
+            "Model type": "nn",
+            "Normalize numerical column": "True",
+            "Enable L2": "False",
+            "Enable batchNorm": "False",
+            "Enable layerNorm": "False",
+            "Enable embedding L2": "False",
+            "Embedding numerical embedding": "True",
+            "Hidden layer size": 64,
+            "Number of hidden layers": "2",
+            "Dropout rate": 0.125,
+            "Number of cross layers": "2",
+            "Enable L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Normalize numerical column": "True",
+            "Skip connections type": "dense",
+            "Model type": "nn",
+            "Enable embedding L2": "False",
+            "Enable batchNorm": "False",
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False",
+            "Enable embedding L1": "False",
+            "Number of cross layers": "0",
+            "Enable L1": "False",
+            "Number of hidden layers": "2",
+            "Hidden layer size": 64,
+            "Enable L2": "False",
+            "Dropout rate": 0.125
+          }
+        },
+        {
+          "hyperparameters": {
+            "Normalize numerical column": "True",
+            "Enable L2": "False",
+            "Hidden layer size": 64,
+            "Enable layerNorm": "False",
+            "Enable embedding L1": "False",
+            "Number of cross layers": "0",
+            "Skip connections type": "dense",
+            "Enable L1": "False",
+            "Enable embedding L2": "False",
+            "Enable batchNorm": "False",
+            "Model type": "nn",
+            "Number of hidden layers": "2",
+            "Dropout rate": 0.125,
+            "Embedding numerical embedding": "True"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Hidden layer size": 64,
+            "Enable L2": "False",
+            "Enable batchNorm": "False",
+            "Number of cross layers": "0",
+            "Enable embedding L2": "False",
+            "Number of hidden layers": "2",
+            "Skip connections type": "dense",
+            "Enable L1": "False",
+            "Enable layerNorm": "False",
+            "Model type": "nn",
+            "Dropout rate": 0.125,
+            "Embedding numerical embedding": "True",
+            "Normalize numerical column": "True",
+            "Enable embedding L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable batchNorm": "False",
+            "Dropout rate": 0.125,
+            "Enable L1": "False",
+            "Enable layerNorm": "False",
+            "Hidden layer size": 256,
+            "Number of hidden layers": "2",
+            "Embedding numerical embedding": "True",
+            "Enable embedding L2": "False",
+            "Normalize numerical column": "True",
+            "Enable L2": "False",
+            "Model type": "nn",
+            "Enable embedding L1": "False",
+            "Number of cross layers": "0",
+            "Skip connections type": "dense"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable batchNorm": "False",
+            "Normalize numerical column": "True",
+            "Model type": "nn",
+            "Hidden layer size": 256,
+            "Enable layerNorm": "False",
+            "Skip connections type": "dense",
+            "Embedding numerical embedding": "True",
+            "Enable embedding L2": "False",
+            "Dropout rate": 0.375,
+            "Number of hidden layers": "3",
+            "Enable L1": "False",
+            "Number of cross layers": "2",
+            "Enable embedding L1": "False",
+            "Enable L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of cross layers": "0",
+            "Enable L2": "False",
+            "Dropout rate": 0.125,
+            "Skip connections type": "dense",
+            "Model type": "nn",
+            "Enable layerNorm": "False",
+            "Embedding numerical embedding": "True",
+            "Hidden layer size": 256,
+            "Enable L1": "False",
+            "Number of hidden layers": "2",
+            "Enable embedding L1": "False",
+            "Enable batchNorm": "False",
+            "Normalize numerical column": "True",
+            "Enable embedding L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable layerNorm": "False",
+            "Enable embedding L2": "False",
+            "Model type": "nn",
+            "Embedding numerical embedding": "True",
+            "Enable batchNorm": "False",
+            "Enable L2": "False",
+            "Skip connections type": "dense",
+            "Enable L1": "False",
+            "Enable embedding L1": "False",
+            "Dropout rate": 0.125,
+            "Normalize numerical column": "True",
+            "Number of hidden layers": "2",
+            "Number of cross layers": "2",
+            "Hidden layer size": 64
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "nn",
+            "Enable embedding L1": "False",
+            "Number of cross layers": "0",
+            "Normalize numerical column": "True",
+            "Hidden layer size": 256,
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False",
+            "Enable L1": "False",
+            "Dropout rate": 0.125,
+            "Skip connections type": "dense",
+            "Enable embedding L2": "False",
+            "Enable batchNorm": "False",
+            "Number of hidden layers": "2",
+            "Enable L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable layerNorm": "False",
+            "Enable embedding L2": "False",
+            "Enable batchNorm": "False",
+            "Embedding numerical embedding": "True",
+            "Skip connections type": "dense",
+            "Enable L2": "False",
+            "Dropout rate": 0.125,
+            "Enable embedding L1": "False",
+            "Enable L1": "False",
+            "Hidden layer size": 256,
+            "Normalize numerical column": "True",
+            "Number of hidden layers": "2",
+            "Model type": "nn",
+            "Number of cross layers": "0"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Skip connections type": "dense",
+            "Enable L1": "False",
+            "Dropout rate": 0.375,
+            "Enable L2": "False",
+            "Enable layerNorm": "False",
+            "Enable batchNorm": "False",
+            "Model type": "nn",
+            "Number of cross layers": "2",
+            "Normalize numerical column": "True",
+            "Enable embedding L2": "False",
+            "Number of hidden layers": "3",
+            "Hidden layer size": 256,
+            "Embedding numerical embedding": "True",
+            "Enable embedding L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Embedding numerical embedding": "True",
+            "Number of cross layers": "0",
+            "Enable batchNorm": "False",
+            "Enable embedding L1": "False",
+            "Enable L1": "False",
+            "Number of hidden layers": "2",
+            "Skip connections type": "dense",
+            "Enable embedding L2": "False",
+            "Normalize numerical column": "True",
+            "Dropout rate": 0.125,
+            "Hidden layer size": 64,
+            "Enable layerNorm": "False",
+            "Enable L2": "False",
+            "Model type": "nn"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of hidden layers": "3",
+            "Enable L2": "False",
+            "Model type": "nn",
+            "Enable batchNorm": "False",
+            "Enable embedding L2": "False",
+            "Enable layerNorm": "False",
+            "Skip connections type": "dense",
+            "Dropout rate": 0.375,
+            "Enable L1": "False",
+            "Enable embedding L1": "False",
+            "Hidden layer size": 256,
+            "Embedding numerical embedding": "True",
+            "Number of cross layers": "2",
+            "Normalize numerical column": "True"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Normalize numerical column": "True",
+            "Skip connections type": "dense",
+            "Enable L2": "False",
+            "Enable L1": "False",
+            "Enable batchNorm": "False",
+            "Dropout rate": 0.125,
+            "Hidden layer size": 64,
+            "Number of cross layers": "2",
+            "Enable embedding L1": "False",
+            "Enable embedding L2": "False",
+            "Number of hidden layers": "2",
+            "Model type": "nn",
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L2": "False",
+            "Number of cross layers": "0",
+            "Enable L1": "False",
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False",
+            "Normalize numerical column": "True",
+            "Model type": "nn",
+            "Enable L2": "False",
+            "Number of hidden layers": "2",
+            "Skip connections type": "dense",
+            "Enable batchNorm": "False",
+            "Dropout rate": 0.125,
+            "Hidden layer size": 64,
+            "Enable embedding L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable L2": "False",
+            "Enable L1": "False",
+            "Hidden layer size": 64,
+            "Enable embedding L1": "False",
+            "Enable embedding L2": "False",
+            "Number of cross layers": "2",
+            "Enable batchNorm": "False",
+            "Model type": "nn",
+            "Skip connections type": "dense",
+            "Embedding numerical embedding": "True",
+            "Dropout rate": 0.125,
+            "Normalize numerical column": "True",
+            "Number of hidden layers": "2",
+            "Enable layerNorm": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable layerNorm": "False",
+            "Hidden layer size": 64,
+            "Enable L2": "False",
+            "Skip connections type": "dense",
+            "Dropout rate": 0.125,
+            "Embedding numerical embedding": "True",
+            "Normalize numerical column": "True",
+            "Enable L1": "False",
+            "Enable embedding L1": "False",
+            "Model type": "nn",
+            "Enable batchNorm": "False",
+            "Number of hidden layers": "2",
+            "Enable embedding L2": "False",
+            "Number of cross layers": "2"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable batchNorm": "False",
+            "Enable embedding L1": "False",
+            "Enable embedding L2": "False",
+            "Number of hidden layers": "2",
+            "Enable layerNorm": "False",
+            "Enable L2": "False",
+            "Skip connections type": "dense",
+            "Model type": "nn",
+            "Embedding numerical embedding": "True",
+            "Number of cross layers": "2",
+            "Hidden layer size": 64,
+            "Enable L1": "False",
+            "Dropout rate": 0.125,
+            "Normalize numerical column": "True"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable batchNorm": "False",
+            "Enable L1": "False",
+            "Number of hidden layers": "2",
+            "Enable embedding L1": "False",
+            "Skip connections type": "dense",
+            "Enable embedding L2": "False",
+            "Normalize numerical column": "True",
+            "Dropout rate": 0.125,
+            "Enable layerNorm": "False",
+            "Enable L2": "False",
+            "Model type": "nn",
+            "Embedding numerical embedding": "True",
+            "Hidden layer size": 64,
+            "Number of cross layers": "2"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L1": "False",
+            "Number of hidden layers": "3",
+            "Enable embedding L2": "False",
+            "Skip connections type": "dense",
+            "Enable batchNorm": "False",
+            "Normalize numerical column": "True",
+            "Model type": "nn",
+            "Enable L1": "False",
+            "Dropout rate": 0.375,
+            "Enable L2": "False",
+            "Hidden layer size": 256,
+            "Enable layerNorm": "False",
+            "Embedding numerical embedding": "True",
+            "Number of cross layers": "2"
+          }
+        }
+      ]
+    },
+    "resource": {
+      "type": "cloudml_job",
+      "labels": {
+        "region": "us-central1",
+        "project_id": "cs218-proj2-team6",
+        "job_id": "TBL5547319836129886208"
+      }
+    },
+    "timestamp": "2020-11-19T07:05:08.310689651Z",
+    "severity": "INFO",
+    "labels": {
+      "log_type": "automl_tables"
+    },
+    "logName": "projects/cs218-proj2-team6/logs/automl.googleapis.com%2Fmodel",
+    "receiveTimestamp": "2020-11-19T07:05:08.310689651Z"
+  },
+  {
+    "insertId": "1x3rh16fhp3imk",
+    "jsonPayload": {
+      "modelParameters": [
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Number of trees": 300,
+            "Center Bias": "False",
+            "Max tree depth": 9,
+            "Tree L2 regularization": 0.30000001192092896,
+            "Tree L1 regularization": 1,
+            "Tree complexity": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 300,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 1,
+            "Center Bias": "False",
+            "Tree complexity": 0,
+            "Tree L2 regularization": 0.30000001192092896,
+            "Max tree depth": 9
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Tree L2 regularization": 0.30000001192092896,
+            "Tree L1 regularization": 1,
+            "Max tree depth": 9,
+            "Center Bias": "False",
+            "Number of trees": 300,
+            "Tree complexity": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree complexity": 0,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 1,
+            "Max tree depth": 9,
+            "Number of trees": 300,
+            "Tree L2 regularization": 0.30000001192092896
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Tree complexity": 0,
+            "Tree L2 regularization": 0.30000001192092896,
+            "Max tree depth": 9,
+            "Tree L1 regularization": 1,
+            "Number of trees": 300
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree L1 regularization": 0.10000000149011612,
+            "Number of trees": 250,
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Tree L2 regularization": 1,
+            "Max tree depth": 12
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 250,
+            "Tree L2 regularization": 1,
+            "Tree complexity": 0,
+            "Center Bias": "False",
+            "Max tree depth": 12,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0.10000000149011612
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree complexity": 0,
+            "Max tree depth": 12,
+            "Number of trees": 250,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0.10000000149011612,
+            "Tree L2 regularization": 1
+          }
+        },
+        {
+          "hyperparameters": {
+            "Max tree depth": 12,
+            "Tree L1 regularization": 0,
+            "Center Bias": "False",
+            "Number of trees": 300,
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Tree L2 regularization": 3
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree complexity": 0,
+            "Model type": "GBDT",
+            "Number of trees": 250,
+            "Max tree depth": 12,
+            "Tree L2 regularization": 1,
+            "Tree L1 regularization": 0.10000000149011612
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L1 regularization": 0,
+            "Model type": "GBDT",
+            "Number of trees": 300,
+            "Tree complexity": 0,
+            "Center Bias": "False",
+            "Max tree depth": 12,
+            "Tree L2 regularization": 3
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 1,
+            "Number of trees": 300,
+            "Tree complexity": 0,
+            "Center Bias": "False",
+            "Max tree depth": 12,
+            "Tree L1 regularization": 1,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree complexity": 0,
+            "Tree L1 regularization": 0,
+            "Model type": "GBDT",
+            "Max tree depth": 12,
+            "Number of trees": 300,
+            "Center Bias": "False",
+            "Tree L2 regularization": 3
+          }
+        },
+        {
+          "hyperparameters": {
+            "Max tree depth": 12,
+            "Tree complexity": 0,
+            "Tree L1 regularization": 1,
+            "Model type": "GBDT",
+            "Tree L2 regularization": 3,
+            "Center Bias": "False",
+            "Number of trees": 300
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Max tree depth": 12,
+            "Tree L2 regularization": 3,
+            "Center Bias": "False",
+            "Tree L1 regularization": 1,
+            "Number of trees": 300
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 300,
+            "Tree L2 regularization": 1,
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Max tree depth": 12,
+            "Tree L1 regularization": 1,
+            "Tree complexity": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree L1 regularization": 0,
+            "Tree complexity": 0,
+            "Number of trees": 300,
+            "Model type": "GBDT",
+            "Tree L2 regularization": 3,
+            "Max tree depth": 12
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 250,
+            "Max tree depth": 12,
+            "Tree L2 regularization": 1,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 0.10000000149011612,
+            "Tree complexity": 0,
+            "Center Bias": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Max tree depth": 12,
+            "Center Bias": "False",
+            "Tree L1 regularization": 1,
+            "Tree L2 regularization": 1,
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Number of trees": 300
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 300,
+            "Tree complexity": 0,
+            "Tree L2 regularization": 1,
+            "Max tree depth": 12,
+            "Center Bias": "False",
+            "Model type": "GBDT",
+            "Tree L1 regularization": 1
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Max tree depth": 12,
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Tree L1 regularization": 1,
+            "Number of trees": 300,
+            "Tree L2 regularization": 3
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Tree complexity": 0,
+            "Tree L2 regularization": 1,
+            "Max tree depth": 12,
+            "Tree L1 regularization": 1,
+            "Number of trees": 300
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 300,
+            "Max tree depth": 12,
+            "Center Bias": "False",
+            "Tree L1 regularization": 0,
+            "Tree complexity": 0,
+            "Tree L2 regularization": 3,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Max tree depth": 12,
+            "Tree L2 regularization": 3,
+            "Tree complexity": 0,
+            "Tree L1 regularization": 1,
+            "Number of trees": 300,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Max tree depth": 12,
+            "Tree L2 regularization": 3,
+            "Tree L1 regularization": 1,
+            "Tree complexity": 0,
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Number of trees": 300
+          }
+        }
+      ],
+      "@type": "type.googleapis.com/google.cloud.automl.master.TablesModelStructure"
+    },
+    "resource": {
+      "type": "cloudml_job",
+      "labels": {
+        "project_id": "cs218-proj2-team6",
+        "region": "us-central1",
+        "job_id": "TBL2688352109400686592"
+      }
+    },
+    "timestamp": "2020-11-08T01:41:49.881282951Z",
+    "severity": "INFO",
+    "labels": {
+      "log_type": "automl_tables"
+    },
+    "logName": "projects/cs218-proj2-team6/logs/automl.googleapis.com%2Fmodel",
+    "receiveTimestamp": "2020-11-08T01:41:49.881282951Z"
+  },
+  {
+    "insertId": "17kak16fff7f0r",
+    "jsonPayload": {
+      "modelParameters": [
+        {
+          "hyperparameters": {
+            "Tree complexity": 0,
+            "Tree L1 regularization": 3,
+            "Number of trees": 450,
+            "Tree L2 regularization": 0,
+            "Center Bias": "False",
+            "Model type": "GBDT",
+            "Max tree depth": 6
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Number of trees": 450,
+            "Tree L2 regularization": 0,
+            "Max tree depth": 6,
+            "Center Bias": "False",
+            "Tree L1 regularization": 3
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 450,
+            "Center Bias": "False",
+            "Tree complexity": 0,
+            "Tree L1 regularization": 3,
+            "Max tree depth": 6,
+            "Model type": "GBDT",
+            "Tree L2 regularization": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 450,
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Center Bias": "False",
+            "Tree L2 regularization": 0,
+            "Tree L1 regularization": 3,
+            "Max tree depth": 6
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 1,
+            "Tree L1 regularization": 3,
+            "Number of trees": 500,
+            "Tree complexity": 1,
+            "Center Bias": "False",
+            "Model type": "GBDT",
+            "Max tree depth": 6
+          }
+        },
+        {
+          "hyperparameters": {
+            "Max tree depth": 6,
+            "Tree L2 regularization": 0,
+            "Tree L1 regularization": 3,
+            "Number of trees": 450,
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Center Bias": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 1,
+            "Max tree depth": 6,
+            "Tree complexity": 1,
+            "Tree L1 regularization": 3,
+            "Center Bias": "False",
+            "Number of trees": 500,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Max tree depth": 6,
+            "Tree L1 regularization": 3,
+            "Tree complexity": 0,
+            "Tree L2 regularization": 1,
+            "Number of trees": 500
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 0,
+            "Model type": "GBDT",
+            "Tree L1 regularization": 3,
+            "Max tree depth": 6,
+            "Number of trees": 450,
+            "Center Bias": "False",
+            "Tree complexity": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 1,
+            "Center Bias": "False",
+            "Max tree depth": 6,
+            "Tree complexity": 1,
+            "Tree L1 regularization": 3,
+            "Number of trees": 500,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 0,
+            "Tree L1 regularization": 3,
+            "Center Bias": "False",
+            "Tree complexity": 0,
+            "Model type": "GBDT",
+            "Max tree depth": 6,
+            "Number of trees": 450
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree complexity": 0,
+            "Tree L1 regularization": 3,
+            "Tree L2 regularization": 0,
+            "Max tree depth": 6,
+            "Number of trees": 450,
+            "Center Bias": "False",
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 0,
+            "Center Bias": "False",
+            "Tree L1 regularization": 3,
+            "Tree complexity": 0,
+            "Max tree depth": 6,
+            "Model type": "GBDT",
+            "Number of trees": 450
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree L2 regularization": 0,
+            "Tree L1 regularization": 3,
+            "Number of trees": 450,
+            "Model type": "GBDT",
+            "Tree complexity": 0,
+            "Max tree depth": 6
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 1,
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Tree L1 regularization": 3,
+            "Tree complexity": 0
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree L2 regularization": 1,
+            "Tree L1 regularization": 3,
+            "Tree complexity": 0,
+            "Number of trees": 500,
+            "Model type": "GBDT",
+            "Max tree depth": 6
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L1 regularization": 3,
+            "Tree L2 regularization": 3,
+            "Number of trees": 350,
+            "Model type": "GBDT",
+            "Tree complexity": 1,
+            "Center Bias": "False",
+            "Max tree depth": 9
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree L1 regularization": 3,
+            "Number of trees": 350,
+            "Tree complexity": 1,
+            "Tree L2 regularization": 3,
+            "Model type": "GBDT",
+            "Max tree depth": 9
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of trees": 350,
+            "Max tree depth": 9,
+            "Tree complexity": 1,
+            "Tree L1 regularization": 3,
+            "Tree L2 regularization": 3,
+            "Model type": "GBDT",
+            "Center Bias": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Tree L2 regularization": 3,
+            "Number of trees": 350,
+            "Model type": "GBDT",
+            "Max tree depth": 9,
+            "Tree L1 regularization": 3,
+            "Tree complexity": 1
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 1,
+            "Max tree depth": 6,
+            "Center Bias": "False",
+            "Model type": "GBDT",
+            "Number of trees": 500,
+            "Tree L1 regularization": 3,
+            "Tree complexity": 1
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree complexity": 0,
+            "Tree L2 regularization": 1,
+            "Model type": "GBDT",
+            "Center Bias": "False",
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Tree L1 regularization": 3
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree L2 regularization": 3,
+            "Model type": "GBDT",
+            "Number of trees": 350,
+            "Max tree depth": 9,
+            "Center Bias": "False",
+            "Tree complexity": 1,
+            "Tree L1 regularization": 3
+          }
+        },
+        {
+          "hyperparameters": {
+            "Center Bias": "False",
+            "Number of trees": 500,
+            "Max tree depth": 6,
+            "Tree complexity": 0,
+            "Tree L1 regularization": 3,
+            "Tree L2 regularization": 1,
+            "Model type": "GBDT"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Tree complexity": 1,
+            "Model type": "GBDT",
+            "Max tree depth": 6,
+            "Number of trees": 500,
+            "Tree L2 regularization": 1,
+            "Center Bias": "False",
+            "Tree L1 regularization": 3
+          }
+        }
+      ],
+      "@type": "type.googleapis.com/google.cloud.automl.master.TablesModelStructure"
+    },
+    "resource": {
+      "type": "cloudml_job",
+      "labels": {
+        "region": "us-central1",
+        "job_id": "TBL8136581758612144128",
+        "project_id": "cs218-proj2-team6"
+      }
+    },
+    "timestamp": "2020-11-07T22:57:52.167852302Z",
+    "severity": "INFO",
+    "labels": {
+      "log_type": "automl_tables"
+    },
+    "logName": "projects/cs218-proj2-team6/logs/automl.googleapis.com%2Fmodel",
+    "receiveTimestamp": "2020-11-07T22:57:52.167852302Z"
+  },
+  {
+    "insertId": "aa1nexfep2tv4",
+    "jsonPayload": {
+      "@type": "type.googleapis.com/google.cloud.automl.master.TablesModelStructure",
+      "modelParameters": [
+        {
+          "hyperparameters": {
+            "Enable L1": "False",
+            "Enable L2": "False",
+            "Normalize numerical column": "True",
+            "Number of hidden layers": "3",
+            "Enable layerNorm": "False",
+            "Model type": "nn",
+            "Skip connections type": "concat",
+            "Number of cross layers": "0",
+            "Enable batchNorm": "False",
+            "Enable embedding L2": "False",
+            "Dropout rate": 0,
+            "Hidden layer size": 1024,
+            "Embedding numerical embedding": "True",
+            "Enable embedding L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable L1": "False",
+            "Hidden layer size": 1024,
+            "Number of hidden layers": "3",
+            "Embedding numerical embedding": "True",
+            "Enable embedding L2": "False",
+            "Enable batchNorm": "False",
+            "Model type": "nn",
+            "Normalize numerical column": "True",
+            "Enable embedding L1": "False",
+            "Skip connections type": "concat",
+            "Dropout rate": 0,
+            "Enable L2": "False",
+            "Number of cross layers": "0",
+            "Enable layerNorm": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Dropout rate": 0,
+            "Skip connections type": "concat",
+            "Enable L2": "False",
+            "Enable layerNorm": "False",
+            "Number of cross layers": "0",
+            "Hidden layer size": 1024,
+            "Embedding numerical embedding": "True",
+            "Normalize numerical column": "True",
+            "Enable embedding L2": "False",
+            "Model type": "nn",
+            "Enable L1": "False",
+            "Enable batchNorm": "False",
+            "Number of hidden layers": "3",
+            "Enable embedding L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "nn",
+            "Hidden layer size": 1024,
+            "Enable embedding L1": "False",
+            "Number of cross layers": "0",
+            "Number of hidden layers": "3",
+            "Embedding numerical embedding": "True",
+            "Enable L1": "False",
+            "Enable layerNorm": "False",
+            "Skip connections type": "concat",
+            "Enable batchNorm": "False",
+            "Enable embedding L2": "False",
+            "Normalize numerical column": "True",
+            "Dropout rate": 0,
+            "Enable L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable layerNorm": "False",
+            "Model type": "nn",
+            "Skip connections type": "concat",
+            "Normalize numerical column": "True",
+            "Enable L2": "False",
+            "Dropout rate": 0,
+            "Embedding numerical embedding": "True",
+            "Enable L1": "False",
+            "Number of hidden layers": "3",
+            "Enable embedding L2": "False",
+            "Hidden layer size": 1024,
+            "Enable embedding L1": "False",
+            "Number of cross layers": "0",
+            "Enable batchNorm": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "nn",
+            "Normalize numerical column": "True",
+            "Enable L1": "False",
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False",
+            "Dropout rate": 0.25,
+            "Skip connections type": "concat",
+            "Hidden layer size": 1024,
+            "Enable L2": "False",
+            "Enable batchNorm": "False",
+            "Enable embedding L2": "False",
+            "Number of cross layers": "0",
+            "Number of hidden layers": "4",
+            "Enable embedding L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Hidden layer size": 1024,
+            "Dropout rate": 0.25,
+            "Number of hidden layers": "4",
+            "Model type": "nn",
+            "Normalize numerical column": "True",
+            "Enable batchNorm": "False",
+            "Enable embedding L2": "False",
+            "Embedding numerical embedding": "True",
+            "Enable embedding L1": "False",
+            "Enable L1": "False",
+            "Number of cross layers": "0",
+            "Enable L2": "False",
+            "Enable layerNorm": "False",
+            "Skip connections type": "concat"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Hidden layer size": 1024,
+            "Skip connections type": "concat",
+            "Enable embedding L1": "False",
+            "Enable batchNorm": "False",
+            "Normalize numerical column": "True",
+            "Model type": "nn",
+            "Enable embedding L2": "False",
+            "Enable L1": "False",
+            "Enable L2": "False",
+            "Number of hidden layers": "4",
+            "Number of cross layers": "0",
+            "Enable layerNorm": "False",
+            "Embedding numerical embedding": "True",
+            "Dropout rate": 0.25
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L1": "False",
+            "Dropout rate": 0.25,
+            "Skip connections type": "concat",
+            "Enable embedding L2": "False",
+            "Number of hidden layers": "4",
+            "Enable batchNorm": "False",
+            "Enable L1": "False",
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False",
+            "Number of cross layers": "0",
+            "Model type": "nn",
+            "Normalize numerical column": "True",
+            "Enable L2": "False",
+            "Hidden layer size": 1024
+          }
+        },
+        {
+          "hyperparameters": {
+            "Model type": "nn",
+            "Enable L2": "False",
+            "Normalize numerical column": "True",
+            "Enable embedding L1": "False",
+            "Enable L1": "False",
+            "Number of cross layers": "0",
+            "Enable batchNorm": "False",
+            "Enable embedding L2": "False",
+            "Enable layerNorm": "False",
+            "Skip connections type": "concat",
+            "Hidden layer size": 1024,
+            "Embedding numerical embedding": "True",
+            "Number of hidden layers": "4",
+            "Dropout rate": 0.25
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L2": "False",
+            "Normalize numerical column": "True",
+            "Model type": "nn",
+            "Skip connections type": "concat",
+            "Enable L2": "False",
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False",
+            "Enable embedding L1": "False",
+            "Dropout rate": 0.125,
+            "Hidden layer size": 1024,
+            "Number of hidden layers": "5",
+            "Enable L1": "False",
+            "Enable batchNorm": "False",
+            "Number of cross layers": "0"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Normalize numerical column": "True",
+            "Enable L2": "False",
+            "Hidden layer size": 1024,
+            "Embedding numerical embedding": "True",
+            "Enable L1": "False",
+            "Enable embedding L1": "False",
+            "Skip connections type": "concat",
+            "Enable batchNorm": "False",
+            "Model type": "nn",
+            "Enable layerNorm": "False",
+            "Number of cross layers": "0",
+            "Dropout rate": 0.125,
+            "Number of hidden layers": "5",
+            "Enable embedding L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Hidden layer size": 1024,
+            "Number of hidden layers": "5",
+            "Number of cross layers": "0",
+            "Skip connections type": "concat",
+            "Dropout rate": 0.125,
+            "Enable embedding L2": "False",
+            "Embedding numerical embedding": "True",
+            "Normalize numerical column": "True",
+            "Enable L2": "False",
+            "Enable L1": "False",
+            "Enable batchNorm": "False",
+            "Enable embedding L1": "False",
+            "Model type": "nn",
+            "Enable layerNorm": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable batchNorm": "False",
+            "Skip connections type": "concat",
+            "Embedding numerical embedding": "True",
+            "Number of hidden layers": "5",
+            "Dropout rate": 0.125,
+            "Enable embedding L2": "False",
+            "Model type": "nn",
+            "Hidden layer size": 1024,
+            "Number of cross layers": "0",
+            "Enable embedding L1": "False",
+            "Normalize numerical column": "True",
+            "Enable layerNorm": "False",
+            "Enable L1": "False",
+            "Enable L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable L1": "False",
+            "Enable layerNorm": "False",
+            "Hidden layer size": 1024,
+            "Model type": "nn",
+            "Dropout rate": 0.25,
+            "Number of hidden layers": "5",
+            "Skip connections type": "concat",
+            "Embedding numerical embedding": "True",
+            "Enable embedding L2": "False",
+            "Enable batchNorm": "False",
+            "Number of cross layers": "0",
+            "Normalize numerical column": "True",
+            "Enable embedding L1": "False",
+            "Enable L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Embedding numerical embedding": "True",
+            "Dropout rate": 0.25,
+            "Enable layerNorm": "False",
+            "Skip connections type": "concat",
+            "Model type": "nn",
+            "Number of cross layers": "0",
+            "Normalize numerical column": "True",
+            "Number of hidden layers": "5",
+            "Enable L2": "False",
+            "Enable embedding L1": "False",
+            "Enable L1": "False",
+            "Hidden layer size": 1024,
+            "Enable batchNorm": "False",
+            "Enable embedding L2": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Embedding numerical embedding": "True",
+            "Enable layerNorm": "False",
+            "Normalize numerical column": "True",
+            "Number of cross layers": "0",
+            "Enable L1": "False",
+            "Dropout rate": 0.25,
+            "Number of hidden layers": "5",
+            "Enable embedding L2": "False",
+            "Enable embedding L1": "False",
+            "Hidden layer size": 1024,
+            "Model type": "nn",
+            "Enable L2": "False",
+            "Enable batchNorm": "False",
+            "Skip connections type": "concat"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Normalize numerical column": "True",
+            "Model type": "nn",
+            "Enable L2": "False",
+            "Skip connections type": "concat",
+            "Enable layerNorm": "False",
+            "Enable L1": "False",
+            "Enable embedding L2": "False",
+            "Dropout rate": 0.125,
+            "Enable batchNorm": "False",
+            "Number of cross layers": "0",
+            "Embedding numerical embedding": "True",
+            "Hidden layer size": 1024,
+            "Number of hidden layers": "5",
+            "Enable embedding L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable batchNorm": "False",
+            "Hidden layer size": 1024,
+            "Enable layerNorm": "False",
+            "Embedding numerical embedding": "True",
+            "Model type": "nn",
+            "Enable embedding L2": "False",
+            "Enable embedding L1": "False",
+            "Enable L1": "False",
+            "Normalize numerical column": "True",
+            "Number of hidden layers": "5",
+            "Skip connections type": "concat",
+            "Number of cross layers": "0",
+            "Enable L2": "False",
+            "Dropout rate": 0.25
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L1": "False",
+            "Enable layerNorm": "False",
+            "Model type": "nn",
+            "Embedding numerical embedding": "True",
+            "Number of hidden layers": "5",
+            "Enable embedding L2": "False",
+            "Skip connections type": "concat",
+            "Number of cross layers": "0",
+            "Hidden layer size": 1024,
+            "Enable L1": "False",
+            "Enable L2": "False",
+            "Enable batchNorm": "False",
+            "Normalize numerical column": "True",
+            "Dropout rate": 0.125
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable layerNorm": "False",
+            "Hidden layer size": 1024,
+            "Enable embedding L2": "False",
+            "Skip connections type": "concat",
+            "Enable batchNorm": "False",
+            "Model type": "nn",
+            "Number of cross layers": "0",
+            "Normalize numerical column": "True",
+            "Enable L1": "False",
+            "Embedding numerical embedding": "True",
+            "Dropout rate": 0.25,
+            "Enable L2": "False",
+            "Enable embedding L1": "False",
+            "Number of hidden layers": "5"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L1": "False",
+            "Hidden layer size": 1024,
+            "Number of hidden layers": "5",
+            "Enable batchNorm": "False",
+            "Enable L2": "False",
+            "Enable layerNorm": "False",
+            "Embedding numerical embedding": "True",
+            "Dropout rate": 0.125,
+            "Normalize numerical column": "True",
+            "Enable L1": "False",
+            "Number of cross layers": "0",
+            "Skip connections type": "concat",
+            "Enable embedding L2": "False",
+            "Model type": "nn"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Hidden layer size": 1024,
+            "Enable embedding L1": "False",
+            "Model type": "nn",
+            "Skip connections type": "concat",
+            "Enable batchNorm": "False",
+            "Enable layerNorm": "False",
+            "Normalize numerical column": "True",
+            "Dropout rate": 0.125,
+            "Number of cross layers": "0",
+            "Embedding numerical embedding": "True",
+            "Number of hidden layers": "5",
+            "Enable L2": "False",
+            "Enable embedding L2": "False",
+            "Enable L1": "False"
+          }
+        },
+        {
+          "hyperparameters": {
+            "Enable embedding L2": "False",
+            "Enable layerNorm": "False",
+            "Model type": "nn",
+            "Enable batchNorm": "False",
+            "Skip connections type": "concat",
+            "Dropout rate": 0.125,
+            "Normalize numerical column": "True",
+            "Enable L1": "False",
+            "Embedding numerical embedding": "True",
+            "Number of hidden layers": "5",
+            "Number of cross layers": "0",
+            "Enable embedding L1": "False",
+            "Enable L2": "False",
+            "Hidden layer size": 1024
+          }
+        },
+        {
+          "hyperparameters": {
+            "Number of cross layers": "0",
+            "Enable L1": "False",
+            "Embedding numerical embedding": "True",
+            "Enable L2": "False",
+            "Hidden layer size": 1024,
+            "Number of hidden layers": "5",
+            "Enable embedding L2": "False",
+            "Enable layerNorm": "False",
+            "Model type": "nn",
+            "Skip connections type": "concat",
+            "Dropout rate": 0.125,
+            "Normalize numerical column": "True",
+            "Enable batchNorm": "False",
+            "Enable embedding L1": "False"
+          }
+        }
+      ]
+    },
+    "resource": {
+      "type": "cloudml_job",
+      "labels": {
+        "region": "us-central1",
+        "job_id": "TBL5535752973805682688",
+        "project_id": "cs218-proj2-team6"
+      }
+    },
+    "timestamp": "2020-11-07T21:24:38.172938424Z",
+    "severity": "INFO",
+    "labels": {
+      "log_type": "automl_tables"
+    },
+    "logName": "projects/cs218-proj2-team6/logs/automl.googleapis.com%2Fmodel",
+    "receiveTimestamp": "2020-11-07T21:24:38.172938424Z"
+  }
+]

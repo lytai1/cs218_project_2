@@ -12,6 +12,7 @@
   + revised data: ml-life-expectancy-data-revised.ipynb
   
 - **automl logs**:
+  + models only: cloudml_job__logs__2020-11-19T04-18.json
 
 - **data analysis**:
   + python code on revised data: cs218project2.ipynb
